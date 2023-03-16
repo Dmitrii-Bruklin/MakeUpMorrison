@@ -537,7 +537,7 @@ Main Components
 .cd-item-info .cd-price {
   color: #a5d05e;
   position: relative;
-  margin-left: 10px;
+  margin-left: 5px;
   -webkit-transition: color 0.2s;
   -moz-transition: color 0.2s;
   transition: color 0.2s;
